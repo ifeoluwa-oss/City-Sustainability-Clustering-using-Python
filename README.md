@@ -1,6 +1,6 @@
 # City Sustainability Clustering
 
-![] (smart_city.jpeg)
+![ ] (smart_city.jpeg)
 
 Clusters global cities by sustainability performance to help GreenCityWatch prioritize which cities need policy intervention and funding.
 
