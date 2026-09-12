@@ -18,3 +18,5 @@ Cities in the Critical Intervention Zone show the clearest pattern: high emissio
 Python · Pandas · Scikit-learn · Seaborn · Plotly
 
 ![Smart_city_design](smart_city.jpeg "This is a smart city")
+
+
