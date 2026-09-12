@@ -1,6 +1,6 @@
 # City Sustainability Clustering
 
-![ ] (smart_city.jpeg)
+![ ](smart_city.jpeg)
 
 Clusters global cities by sustainability performance to help GreenCityWatch prioritize which cities need policy intervention and funding.
 
@@ -16,7 +16,5 @@ Cities in the Critical Intervention Zone show the clearest pattern: high emissio
 
 #### Tools
 Python · Pandas · Scikit-learn · Seaborn · Plotly
-
-![] (smart_city.jpeg)
 
 ![Smart_city_design](smart_city.jpeg "This is a smart city")
